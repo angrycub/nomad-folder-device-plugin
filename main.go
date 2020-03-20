@@ -4,7 +4,7 @@ import (
 	log "github.com/hashicorp/go-hclog"
 	"github.com/hashicorp/nomad/plugins"
 
-	"github.com/hashicorp/nomad-skeleton-device-plugin/device"
+	"github.com/angrycub/nomad-folder-device-plugin/device"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/hashicorp/nomad-skeleton-device-plugin
+module github.com/angrycub/nomad-folder-device-plugin
 
 go 1.12
 
